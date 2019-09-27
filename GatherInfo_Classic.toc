@@ -1,0 +1,17 @@
+## Interface: 11302
+## Title: GatherInfo Classic
+## Version: 11302.01
+## Author: fuba
+## Notes: Adds skill requests and other information to tooltips.
+## SavedVariables: GatherInfoDB
+
+## Load Localization Files
+locale\enUS.lua
+locale\deDE.lua
+locale\frFR.lua
+
+## Load Item Database
+GatherData.lua
+
+## Load Core
+GatherInfo.lua
