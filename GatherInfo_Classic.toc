@@ -2,7 +2,7 @@
 ## Title: GatherInfo Classic
 ## Version: 11302.01
 ## Author: fuba
-## Notes: Adds skill requests and other information to tooltips.
+## Notes: Adds skill requirements and other Informations to tooltips.
 ## SavedVariables: GatherInfoDB
 
 ## Load Localization Files
